@@ -1,1 +1,1 @@
-"# UIT-oppgaver---SOK1006" 
+Arbeidskrav og oppgaver for SOK1006 UIT 
