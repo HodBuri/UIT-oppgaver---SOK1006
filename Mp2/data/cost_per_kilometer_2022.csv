@@ -1,0 +1,11 @@
+"Vehicle Type","Kostnader","Cost"
+"Elbiler","Drivstoff",0.27
+"Elbiler","Dekk og Olje",0.25
+"Elbiler","Reparasjoner",0.37
+"Elbiler","Kapital",1.10
+"Elbiler","Totalt",1.98
+"Biler med forbrenningsmotor","Drivstoff",1.19
+"Biler med forbrenningsmotor","Dekk og Olje",0.33
+"Biler med forbrenningsmotor","Reparasjoner",0.55
+"Biler med forbrenningsmotor","Kapital",0.96
+"Biler med forbrenningsmotor","Totalt",3.03
