@@ -1,0 +1,9 @@
+"Time Period","Toll Rate","Vehicle Type","Cost"
+"Standard","Fullpris","Bensin, diesel, ladbar hybrid",12.00
+"Standard","Gyldig avtale og brikke","Bensin, diesel, ladbar hybrid",9.60
+"Standard","Fullpris","Nullutslippskjøretøy",12.00
+"Standard","Gyldig avtale og brikke","Nullutslippskjøretøy",4.80
+"Rushtidsavgift","Fullpris","Bensin, diesel, ladbar hybrid",36.00
+"Rushtidsavgift","Gyldig avtale og brikke","Bensin, diesel, ladbar hybrid",28.80
+"Rushtidsavgift","Fullpris","Nullutslippskjøretøy",36.00
+"Rushtidsavgift","Gyldig avtale og brikke","Nullutslippskjøretøy",14.40
